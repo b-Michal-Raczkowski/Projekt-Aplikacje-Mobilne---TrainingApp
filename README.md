@@ -18,7 +18,6 @@ Pliki
 - `forms.py`: Formularze do wprowadzania danych przez użytkownika.  
 - `urls.py`: Trasowanie URL aplikacji.  
 - `backends.py`: Niestandardowe backendy uwierzytelniania.  
-- `signals.py`: Obsługa sygnałów do tworzenia profili użytkowników.  
 - `apps.py`: Konfiguracja aplikacji.  
 - `TrainingApp/settings.py`: Ustawienia Django dla projektu.  
 - `TrainingApp/urls.py`: Trasowanie URL dla projektu.  
