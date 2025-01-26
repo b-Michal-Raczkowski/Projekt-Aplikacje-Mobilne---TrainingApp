@@ -63,7 +63,7 @@ Kroki
 6. Uzyskaj dostęp do aplikacji: Otwórz przeglądarkę i przejdź do [http://localhost:8000/](http://localhost:8000/).  
 
 Dodatkowe informacje  
-- Niestandardowe uwierzytelnianie: Aplikacja zawiera niestandardowe backendy uwierzytelniania zlokalizowane w `training/backends.py`.  
+-Niestandardowe uwierzytelnianie: Aplikacja zawiera niestandardowe backendy uwierzytelniania zlokalizowane w `training/backends.py`.  
 -Profile użytkowników: Profile użytkowników są automatycznie tworzone przy użyciu sygnałów zdefiniowanych w `training/signals.py`.  
 -Szablony: Szablony HTML znajdują się w `training/templates/`.  
 
