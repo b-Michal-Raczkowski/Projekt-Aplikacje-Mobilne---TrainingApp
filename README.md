@@ -1,6 +1,5 @@
 # Projekt-Aplikacje-Mobilne---TrainingApp
 
-Przegląd projektu  
 Ten projekt to aplikacja webowa oparta na Django do zarządzania treningami. Zawiera funkcje uwierzytelniania użytkowników, tworzenia treningów oraz ich zarządzania.  
 
 Zawartość  
